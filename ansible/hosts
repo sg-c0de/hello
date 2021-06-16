@@ -1,1 +1,1 @@
-test ansible_host=10.96.202.20 ansible_user=bcp
+test ansible_host=10.1.163.51 ansible_user=ubuntu

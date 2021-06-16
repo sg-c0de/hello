@@ -5,7 +5,7 @@
   become: true
 
   vars:
-    repo: https://github.com/sg-c0de/hello
+    repo: 'https://github.com/sg-c0de/hello'
     repo_dir: '/opt/hello'
     packages:
       - nginx
